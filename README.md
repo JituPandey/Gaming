@@ -2,7 +2,7 @@
 
 A comprehensive gaming website built with React, TypeScript, and Firebase. Discover, search, and manage your favorite games with a beautiful, responsive interface featuring full authentication, favorites system, and dark/light themes.
 
-![GameHub Preview](https://gogogaming.netlify.app/))
+Link: (https://gogogaming.netlify.app/)
 
 ## ✨ Features
 
